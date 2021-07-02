@@ -46,9 +46,9 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile2.png
+about_profile_image: images/profile3.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Zijian Jin, you can also call me Alex. And I'm a 2nd year master student in New York University now. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Zijian Jin, you can also call me Alex. I'm a 2nd year master student in New York University now. I majored in Computer Engineering, and I’m doing research focusing on Natural Language Processing <mark>(NLP)<mark>
 
   I am most skilled in: <mark>Deep Learning</mark> <mark>Pytorch</mark> and <mark>Natural language processing</mark>
 
