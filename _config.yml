@@ -48,9 +48,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile3.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Zijian Jin, you can also call me Alex. I'm a 2nd year master student in New York University now. I majored in Computer Engineering, and I’m doing research focusing on Natural Language Processing <mark>(NLP)<mark>
+  Hi, my name's Zijian Jin, you can also call me Alex! I'm currently a master student at New York University. I majored in Computer Engineering, and I’m doing research focusing on Natural Language Processing <mark>(NLP)<mark>.
 
-  I am most skilled in: <mark>Deep Learning</mark> <mark>Pytorch</mark> and <mark>Natural language processing</mark>
+  Reaerch Interest:
+  • <mark>Neural-Symbolic Solutions</mark>,
+  • <mark>Low-resource learning</mark>
+  • <mark>Probing pre-trained Language Models</mark>
 
 content:
   - title: Research Experience # Title for the section
@@ -70,7 +73,7 @@ content:
         quote: >
           The second executor Supervised by Prof. Kewei Tu at ShanghaiTech University.
         description: | # this will include new lines to allow paragraphs
-          Combine symbolic rules (regular expressions, REs) and neural networks by converting REs into bidirectional Recurrent Neural Networks via finite-state transducers, enabling the neural network to generalize in zero-shot or cold-start scenarios.
+          • Combine symbolic rules (regular expressions, REs) and neural networks by converting REs into bidirectional Recurrent Neural Networks via finite-state transducers, enabling the neural network to generalize in zero-shot or cold-start scenarios.
 
           • On the slot filling task, our model achieves a superior zero-shot and few-shot performance while remains competitive in rich-resource settings.
 
