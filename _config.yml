@@ -79,7 +79,7 @@ content:
           • Using different **GNN** and **Random Walk** methods to get graph embeddings and process the knowledge graph in order to get pre-trained representations
 
           • A paper is in preparation for submission to **TACL**.
-          
+
       - layout: top-middle
         title: Turning Regular Expressions into Trainable RNNs for Slot Filling
         #link: github.com/sproogen
@@ -98,7 +98,27 @@ content:
 
           • On the **slot filling** task, our model achieves a superior zero-shot and few-shot performance while remains competitive in rich-resource settings.
 
-          • A paper is submitted to **EMNLP 2021**.
+          • A paper was submitted to **EMNLP 2021**.
+
+      - layout: top-middle
+        title: Fine-Tuning Language Model with Weak Supervision from Regular Expressions
+        #link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+          #- title:  sproogen/modern-resume-theme
+           # icon: fab fa-github
+           # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          The first executor Supervised by Prof. Mrinmaya Sachan at ETH.
+        description: | # this will include new lines to allow paragraphs
+          • Generating pseudo labels using neural networks transformed from Regular Expressions(REs).
+
+          • A self-training framework is developed leveraging the generated pseudo labels for fine-tuning language models with weak supervision.
+
+          • Successfully improved the zero-shot performance of the language models.
 
 
   - title: Experience # Title for the section
