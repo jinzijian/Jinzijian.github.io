@@ -57,11 +57,11 @@ about_content: | # this will include new lines to allow paragraphs
   * <mark>Probing pre-trained Language Models</mark>
 
 content:
-  - title: Research Experience1 # Title for the section
+  - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Turning Regular Expressions into Trainable RNNs for Slot Filling
+        title: Probing Language Models using Mutual Information with Knowledge Graph
         #link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
@@ -72,14 +72,14 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          The second executor Supervised by Prof. Kewei Tu at ShanghaiTech University.
+          The first executor Supervised by Prof. Mrinmaya Sachan at ETH.
         description: | # this will include new lines to allow paragraphs
-          • **Combine symbolic rules (regular expressions, REs) and neural networks** by converting REs into bidirectional Recurrent Neural Networks via finite-state transducers, enabling the neural network to generalize in zero-shot or cold-start scenarios.
+          • An **information-theoretic probe** is designed to understand how language models encode commonsense knowledge by estimating the mutual information between commonsense knowledge graph and word representation from the language models.
 
-          • On the **slot filling** task, our model achieves a superior zero-shot and few-shot performance while remains competitive in rich-resource settings.
+          • Using different **GNN** and **Random Walk** methods to get graph embeddings and process the knowledge graph in order to get pre-trained representations
 
-          • A paper is submitted to **EMNLP 2021**.
-
+          • A paper is in preparation for submission to **TACL**.
+          
       - layout: top-middle
         title: Turning Regular Expressions into Trainable RNNs for Slot Filling
         #link: github.com/sproogen
@@ -99,6 +99,7 @@ content:
           • On the **slot filling** task, our model achieves a superior zero-shot and few-shot performance while remains competitive in rich-resource settings.
 
           • A paper is submitted to **EMNLP 2021**.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
