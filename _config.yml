@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Zijian Jin (Alex)
-title: Master student in NYU
+title: Master student at NYU
 email: zj2076@nyu.edu
 website: jinzijian.github.io
 
@@ -51,9 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Zijian Jin, you can also call me Alex! I'm currently a master student at New York University. I majored in Computer Engineering, and I’m doing research focusing on Natural Language Processing <mark>(NLP)<mark>.
 
   Reaerch Interest:
-  • <mark>Neural-Symbolic Solutions</mark>,
-  • <mark>Low-resource learning</mark>
-  • <mark>Probing pre-trained Language Models</mark>
+  * <mark>Neural-Symbolic Solutions</mark>
+  * <mark>Low-resource learning</mark>
+  * <mark>Probing pre-trained Language Models</mark>
 
 content:
   - title: Research Experience # Title for the section
