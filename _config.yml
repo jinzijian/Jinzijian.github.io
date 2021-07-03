@@ -30,10 +30,10 @@ github_username:  jinzijian
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+ # icon: fas fa-globe
+  #url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile3.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Zijian Jin, you can also call me Alex! I'm currently a master student at New York University. I majored in Computer Engineering, and I’m doing research focusing on Natural Language Processing <mark>(NLP)<mark>.
+  Hi, my name's Zijian Jin, you can also call me Alex! I'm currently a master student at New York University. I majored in Computer Engineering, and I’m doing research focusing on Natural Language Processing <mark>(NLP)<mark> .
 
-  Reaerch Interest:
+  **Reaerch Interest:**
   * <mark>Neural-Symbolic Solutions</mark>
   * <mark>Low-resource learning</mark>
   * <mark>Probing pre-trained Language Models</mark>
@@ -73,11 +73,11 @@ content:
         quote: >
           The second executor Supervised by Prof. Kewei Tu at ShanghaiTech University.
         description: | # this will include new lines to allow paragraphs
-          • Combine symbolic rules (regular expressions, REs) and neural networks by converting REs into bidirectional Recurrent Neural Networks via finite-state transducers, enabling the neural network to generalize in zero-shot or cold-start scenarios.
+          • **Combine symbolic rules (regular expressions, REs) and neural networks by converting REs into bidirectional Recurrent Neural Networks via finite-state transducers, enabling the neural network to generalize in zero-shot or cold-start scenarios**.
 
-          • On the slot filling task, our model achieves a superior zero-shot and few-shot performance while remains competitive in rich-resource settings.
+          • **On the slot filling task, our model achieves a superior zero-shot and few-shot performance while remains competitive in rich-resource settings**.
 
-          • A paper is submitted to EMNLP 2021.
+          • **A paper is submitted to EMNLP 2021**.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
