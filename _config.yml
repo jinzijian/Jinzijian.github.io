@@ -130,8 +130,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Engineer
         caption: January 2019 - July 2019
-        quote: >
-          Cloud + AI Group
+        
         description: | # this will include new lines to allow paragraphs
           Implemented a demo that aims for monitoring the abnormal oil tube conditions (i.e., fire detection) based on Microsoft Azure using Single Shot Multi-Box Detector (SSD) enabling it to be able to process video at real time.
   
