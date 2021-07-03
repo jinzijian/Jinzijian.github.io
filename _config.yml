@@ -124,7 +124,7 @@ content:
   - title: Internship Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Microsoft Asia Hardware RD Center
         link: https://www.microsoft.com/zh-cn/ard/default.aspx
         # link_text: boringcompany.com
