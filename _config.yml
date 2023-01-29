@@ -121,7 +121,7 @@ content:
           • **Still working on it**.
 
 
-  - title: Internship Experience # Title for the section
+  - title: Working Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -133,6 +133,17 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           Implemented a demo that aims for monitoring the abnormal oil tube conditions (i.e., fire detection) based on Microsoft Azure using Single Shot Multi-Box Detector (SSD) enabling it to be able to process video at real time.
+    
+    content:
+      - layout: top-middle
+        title: Alibaba Group
+        #link: https://www.microsoft.com/zh-cn/ard/default.aspx
+        # link_text: boringcompany.com
+        sub_title: Machine Learning Engineer
+        caption: July 2021 - October 2021
+
+        description: | # this will include new lines to allow paragraphs
+          Implemented a demo that aims for monitoring the abnormal oil tube conditions (i.e., fire detection) based on Microsoft Azure using Single Shot Multi-Box Detector (SSD) enabling it to be able to process video at real time. 
   
   - title: A Little More About Me
     layout: text
